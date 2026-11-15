@@ -1,0 +1,145 @@
+{
+ "app": "Drinks Shop App",
+ "start": "s-01-splash",
+ "screens": [
+  {
+   "slug": "s-05-checkout-payment",
+   "name": "05 - Checkout (Payment)",
+   "page": "Checkout",
+   "w": 375,
+   "h": 667,
+   "elements": 26,
+   "links": 3
+  },
+  {
+   "slug": "s-04-checkout-payment",
+   "name": "04 - Checkout (Payment)",
+   "page": "Checkout",
+   "w": 375,
+   "h": 667,
+   "elements": 20,
+   "links": 3
+  },
+  {
+   "slug": "s-03-checkout-delivery-null",
+   "name": "03 - Checkout (Delivery) Null",
+   "page": "Checkout",
+   "w": 375,
+   "h": 667,
+   "elements": 31,
+   "links": 3
+  },
+  {
+   "slug": "s-03-checkout-delivery",
+   "name": "03 - Checkout (Delivery)",
+   "page": "Checkout",
+   "w": 375,
+   "h": 667,
+   "elements": 36,
+   "links": 2
+  },
+  {
+   "slug": "s-05-slide-category-java-tea",
+   "name": "05 - Slide Category Java Tea",
+   "page": "Products",
+   "w": 375,
+   "h": 667,
+   "elements": 35,
+   "links": 2
+  },
+  {
+   "slug": "s-04-slide-category-espresso",
+   "name": "04 - Slide Category Espresso",
+   "page": "Products",
+   "w": 375,
+   "h": 667,
+   "elements": 35,
+   "links": 2
+  },
+  {
+   "slug": "s-04-slide-category-espresso-selected",
+   "name": "04 - Slide Category Espresso (Selected)",
+   "page": "Products",
+   "w": 375,
+   "h": 667,
+   "elements": 39,
+   "links": 3
+  },
+  {
+   "slug": "s-03-slide-category-green",
+   "name": "03 - Slide Category Green",
+   "page": "Products",
+   "w": 375,
+   "h": 667,
+   "elements": 40,
+   "links": 2
+  },
+  {
+   "slug": "s-03-slide-category-green-added-to-bag",
+   "name": "03 - Slide Category Green (Added to Bag)",
+   "page": "Products",
+   "w": 375,
+   "h": 667,
+   "elements": 37,
+   "links": 3
+  },
+  {
+   "slug": "s-02-slide-category-thai",
+   "name": "02 - Slide Category Thai",
+   "page": "Products",
+   "w": 375,
+   "h": 667,
+   "elements": 35,
+   "links": 2
+  },
+  {
+   "slug": "s-01-slide-category-taro",
+   "name": "01 - Slide Category Taro",
+   "page": "Products",
+   "w": 375,
+   "h": 667,
+   "elements": 36,
+   "links": 2
+  },
+  {
+   "slug": "s-01-splash",
+   "name": "01 - Splash",
+   "page": "Splash",
+   "w": 375,
+   "h": 667,
+   "elements": 1,
+   "links": 1
+  },
+  {
+   "slug": "s-02-cart-delete-item",
+   "name": "02 - Cart (Delete Item)",
+   "page": "Cart",
+   "w": 375,
+   "h": 667,
+   "elements": 79,
+   "links": 4
+  },
+  {
+   "slug": "s-02-cart-empty",
+   "name": "02 - Cart (Empty)",
+   "page": "Cart",
+   "w": 375,
+   "h": 667,
+   "elements": 21,
+   "links": 2
+  },
+  {
+   "slug": "s-01-cart",
+   "name": "01 - Cart",
+   "page": "Cart",
+   "w": 375,
+   "h": 667,
+   "elements": 74,
+   "links": 4
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "poppins"
+ ]
+}
